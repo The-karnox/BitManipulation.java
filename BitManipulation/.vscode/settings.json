@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "backgroundCover.imagePath": "\"backgroundCover.imagePath\": \"\\\"E:\\\\hd-anime-super-saiyan-goku-9vnxw0s6l70fb9l2.webp\\\"\"",
+    "backgroundCover.randomImageFolder": "\"backgroundCover.imagePath\": \"\\\"E:\\\\hd-anime-super-saiyan-goku-9vnxw0s6l70fb9l2.webp\\\"\""
+}
